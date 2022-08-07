@@ -1,0 +1,28 @@
+[ {
+  "id" : 1,
+  "courseName" : "Java",
+  "weekDuration" : 10,
+  "students" : [ {
+    "id" : 1,
+    "name" : "Chris Lucky",
+    "email" : "cl@yahoo.com"
+  }, {
+    "id" : 2,
+    "name" : "Vic Anders",
+    "email" : "va@gmail.com"
+  }, {
+    "id" : 3,
+    "name" : "Harris Zander",
+    "email" : "hz@provider.com"
+  } ]
+}, {
+  "id" : 2,
+  "courseName" : "C sharp",
+  "weekDuration" : 10,
+  "students" : [ ]
+}, {
+  "id" : 3,
+  "courseName" : "Javascript",
+  "weekDuration" : 3,
+  "students" : [ ]
+} ]
